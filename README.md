@@ -13,7 +13,7 @@ This project was created using Javascript.
 ### Jaavascript
 * JS location.reload() method: https://www.w3schools.com/jsref/met_loc_reload.asp
 ## Team Members:
-* Aya El- Dassouki:
+* Aya El- Dassouki.:
 * Moneba Hanifi:
 * Badra Elmi:
 * Sakshi Talawi :
