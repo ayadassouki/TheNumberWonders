@@ -16,5 +16,5 @@ This project was created using Javascript.
 * Aya El- Dassouki.:
 * Moneba Hanifi:
 * Badra Elmi:
-* Sakshi Talawi :
+* Sakshi Talwar :
 # The Number Wonders
