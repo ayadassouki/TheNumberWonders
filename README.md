@@ -13,8 +13,8 @@ This project was created using Javascript.
 ### Jaavascript
 * JS location.reload() method: https://www.w3schools.com/jsref/met_loc_reload.asp
 ## Team Members:
-* Aya El- Dassouki.:
-* Moneba Hanifi:
-* Badra Elmi:
-* Sakshi Talwar :
+* Aya El- Dassouki: aya2004@my.yorku.ca
+* Moneba Hanifi: moneba@my.yorku.ca
+* Badra Elmi:badrae@my.yorku.ca
+* Sakshi Talwar :sakshi3@my.yorku.ca
 # The Number Wonders
