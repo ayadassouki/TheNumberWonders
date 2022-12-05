@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EECS 1012 and NodeJS</title>
+<script src="file:///Users/sakshitalwar/Desktop/PHASE%203%20/project%20server%20side.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script>
+    $.getJSON("http://localhost:8000/", function(data) {
+      document.getElementById("message1").innerHTML = JSON.stringify(data) 
+      document.getElementById("message2").innerHTML = JSON.stringify(Object.message2(data)[0])
+      document.getElementById("message3").innerHTML = JSON.stringify(data.[guesses]) 
+    });
+  </script>
+
