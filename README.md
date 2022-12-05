@@ -10,7 +10,7 @@ This project was created using Javascript.
 ## Learn more
 ### CSS
 * CSS color gradient: https://www.w3schools.com/css/css3_gradients.asp
-### Jaavascript
+### Javascript
 * JS location.reload() method: https://www.w3schools.com/jsref/met_loc_reload.asp
 ## Team Members:
 * Aya El- Dassouki: aya2004@my.yorku.ca
